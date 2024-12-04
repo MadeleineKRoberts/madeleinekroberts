@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Madeleine Roberts! I'm a data analyst and software engineer with a passion for using data to solve complex problems. By day, I work as a football data analyst for the Green Bay Packers, leveraging data to drive performance insights. Outside of work, I apply my analytical skills to my own athletic pursuits—aiming to run a sub-3:35 marathon in 2025—and contribute to my community through data consulting for local political campaigns. I also enjoy sharing the tools and techniques I develop along the way to empower others.   
+Hi, I'm Madeleine Roberts! I'm a data analyst and software engineer with a passion for using data to solve complex problems. By day, I work as a football data analyst for the Green Bay Packers, leveraging data to drive performance insights. Outside of work, I apply my analytical skills to my own athletic pursuits—aiming to run a sub-3:20 marathon in 2025—and contribute to my community through data consulting for local political campaigns. I also enjoy sharing the tools and techniques I develop along the way to empower others.   
 
 I believe that data and technology have the power to change the world, making it a better, happier, and healthier place, and I strive to help make that a reality.
 
