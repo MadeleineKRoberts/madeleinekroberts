@@ -5,6 +5,8 @@ Hi, I'm Madeleine Roberts! I'm a data analyst and software engineer with a passi
 I believe that data and technology have the power to change the world, making it a better, happier, and healthier place, and I strive to help make that a reality.
 
 ## Current Projects:  
+- **[NYC Jobs(Sorted!) (2025)](https://github.com/MadeleineKRoberts/marathon_training_analysis)**: Frustrated by the inablity to sort the City of New York Job Board by posting date, I decided to used their API to create a version that could. While the application currently meets my use cases (ablity to search by job title and sort by the jobs that were most recently updated), I hope to continue to tweak the app for more efficient and advanced sorting and searching, as well as potentially host a more polished, accessible verison to help other people in their job hunt.
+  
 - **[Marathon Training Analysis (2024)](https://github.com/MadeleineKRoberts/marathon_training_analysis)**: Using Strava's API, I am analyzing data from my last three marathon training plans and off-season periods to evaluate their impact on my performance in my upcoming marathon on May 18. This analysis involves methods such as time-series analysis, correlation studies, and regression modeling to identify patterns, relationships, and key predictors of race-day outcomes. Additionally, the analysis includes my return-to-play journey after breaking my ankle in January 2023 to completing the Chicago Marathon in October 2023.
 
 ## Previous Projects:
