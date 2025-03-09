@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Madeleine Roberts! I’m a data analyst and software engineer dedicated to harnessing data and technology for social good. My mission is to drive positive change and create a more equitable world through ethical and impactful data solutions.
+Hi, I'm Madeleine Roberts! I’m a data scientist and software engineer dedicated to harnessing data and technology for social good. My mission is to drive positive change and create a more equitable world through ethical and impactful data solutions.
 
 ## Current Projects:  
 - **[Tech for Campaigns - Political Campaign Data Analysis (2025)](https://github.com/MadeleineKRoberts/JoeTateVoterFileWork)**
